@@ -32,8 +32,9 @@ Rust fun
 | [Day 1](./src/bin/01.rs) | `101.1µs` | `106.8µs` |
 | [Day 2](./src/bin/02.rs) | `120.1µs` | `279.2µs` |
 | [Day 3](./src/bin/03.rs) | `53.0ms` | `23.9ms` |
+| [Day 4](./src/bin/04.rs) | `2.4ms` | `1.3ms` |
 
-**Total: 77.51ms**
+**Total: 81.21ms**
 <!--- benchmarking table --->
 
 Template from [advent-of-code-rust](https://github.com/fspoettel/advent-of-code-rust)
